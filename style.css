@@ -24,6 +24,8 @@ button,
     /*new; needed?*/
     display: flex;
     flex-direction: column;
+
+    padding: 20px;
 }
 
 .top{

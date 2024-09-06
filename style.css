@@ -126,6 +126,10 @@ under boxes*/
     border: 1px solid black;
 }
 
+.boxes {
+    display: flex;
+}
+
 
 
 

@@ -9,13 +9,12 @@ body {
     flex-direction: column;*/
 }
 
+button,
 .header-logo,
 .text {
     color: #f9faf8;
     /*maybe change color?*/
 }
-
-
 
 .header {
     background-color: #1f2937;
@@ -46,4 +45,8 @@ a,
 .sub-text {
     font-size: 18px;
     color: #E5E7EB
+}
+
+button {
+    background-color: #3882F6;
 }

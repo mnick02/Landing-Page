@@ -82,7 +82,9 @@ button {
 .header-body {
     display: flex;
     justify-content: space-between;
-    flex-shrink: 0;
+
+    /*new*/
+    /*flex-shrink: 0;*/
 }
 
 .text{
@@ -93,9 +95,12 @@ button {
 }
 
 img {
-    max-width: 310px;
-    display: flex;
-    flex-shrink: 0;
+    max-width: 410px;
+    max-height: 300px;
+    /*want height to stay the same*/
+    /*display: flex;
+    flex-shrink: 0;*/
+
 }
 
 

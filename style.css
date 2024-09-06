@@ -117,6 +117,15 @@ img {
     font-weight: 900;
 }
 
+/*create boxes and check text size 
+under boxes*/
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
 
 
 

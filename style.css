@@ -111,10 +111,19 @@ img {
 
 }
 
+/*.main-body {
+    display: flex;
+    flex-direction: column;
+}*/
+
 .info-header-text {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /*create boxes and check text size 

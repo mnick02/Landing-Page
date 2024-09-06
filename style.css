@@ -9,9 +9,12 @@ body {
     flex-direction: column;*/
 }
 
-.header {
-    height: 72px;
-    background: #1f2937;
-    
+.header-logo,
+.text {
+    color: #f9faf8;
+}
 
+.header {
+    background-color: #1f2937;
+    /*does this need height*/
 }

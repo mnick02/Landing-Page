@@ -26,13 +26,16 @@ button,
     flex-direction: column;
 
     padding: 20px;
+    /*experiment with*/
 }
 
 .top{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
     margin-bottom: 50px;
+    /*experiment with*/
     /*new*/
 }
 
@@ -74,4 +77,10 @@ button {
     border: none;
     padding: 7px;
 }
+
+.header-body {
+    display: flex;
+    justify-content: space-between;
+}
+
 

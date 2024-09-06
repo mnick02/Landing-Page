@@ -25,8 +25,8 @@ button,
     display: flex;
     flex-direction: column;
 
-    padding: 60px;
-    padding-top: 10px;
+    padding: 10px 100px 70px;
+    /*padding-top: 10px;*/
     /*experiment with*/
 }
 
@@ -79,9 +79,17 @@ button {
     padding: 7px;
 }
 
+button:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: 0 0 0 2px white;
+    transition: 0.7s;
+}
+
 .header-body {
     display: flex;
     justify-content: space-between;
+    gap: 48px;
 
     /*new*/
     /*flex-shrink: 0;*/

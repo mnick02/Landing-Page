@@ -41,6 +41,11 @@ button,
     font-weight: 900;
 }
 
+.header-links {
+    display: flex;
+    gap: 16px;
+}
+
 a {
     text-decoration: none;
 }

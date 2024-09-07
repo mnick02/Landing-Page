@@ -137,7 +137,16 @@ under boxes*/
 
 .boxes {
     display: flex;
+    gap: 52px;
 }
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
 
 
 

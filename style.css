@@ -170,6 +170,11 @@ directly under the box*/
     font-weight: lighter;
     padding: 80px;
     margin-top: 80px;
+
+    /*display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;*/
 }
 
 .end-quote {
@@ -179,6 +184,7 @@ directly under the box*/
 
     display: flex;
     justify-content: flex-end;
+    margin-right: 20px;
 }
 
 

@@ -169,6 +169,7 @@ directly under the box*/
     font-style: italic;
     font-weight: lighter;
     padding: 80px;
+    margin-top: 80px;
 }
 
 .end-quote {

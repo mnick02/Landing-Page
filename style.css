@@ -156,6 +156,17 @@ under boxes*/
     flex-wrap: wrap;
 }
 
+/*.box-text {
+    margin-left: 80px;
+    margin-right: 80px;
+}*/
+/*This could be used to format text
+directly under the box*/
+
+.quote {
+    background-color: #E5E7EB;
+}
+
 
 
 

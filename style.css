@@ -213,6 +213,12 @@ directly under the box*/
 .action-subtext {
     color: #E5E7EB
 }
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
 /*
 .new {
     border-color: #f9faf8;

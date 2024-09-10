@@ -199,6 +199,13 @@ directly under the box*/
     background-color: #3882F6;
 }
 
+.action-header {
+    color: #f9faf8;
+}
+
+.action-subtext {
+    color: #E5E7EB
+}
 /*
 .new {
     border-color: #f9faf8;

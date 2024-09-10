@@ -197,6 +197,10 @@ directly under the box*/
 
 .action {
     background-color: #3882F6;
+
+    display: flex;
+    justify-content: space-between;
+    /*mess around with this; maybe just use gap?*/
 }
 
 .action-header {

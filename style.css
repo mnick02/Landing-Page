@@ -17,8 +17,12 @@ button,
     /*maybe change color?*/
 }
 
-.header {
+.header,
+.footer {
     background-color: #1f2937;
+}
+
+.header {
     /*does this need height*/
 
     /*new; needed?*/
@@ -228,6 +232,12 @@ directly under the box*/
     align-items: center;
     justify-content: center;
 }
+
+.footer {
+    color: #E5E7EB;
+    padding: 30px 100px;
+}
+
 /*
 .new {
     border-color: #f9faf8;

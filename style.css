@@ -202,6 +202,8 @@ directly under the box*/
     display: flex;
     justify-content: space-between;
     /*mess around with this; maybe just use gap?*/
+    margin: 100px;
+    border-radius: 8px;
 }
 
 .action-header {
@@ -219,6 +221,13 @@ directly under the box*/
     flex-direction: column;
     align-items: flex-start;
 }
+
+/*.action-button {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+}*/
 /*
 .new {
     border-color: #f9faf8;

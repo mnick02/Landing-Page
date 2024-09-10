@@ -197,6 +197,7 @@ directly under the box*/
 
 .action {
     background-color: #3882F6;
+    padding: 40px 100px;
 
     display: flex;
     justify-content: space-between;

@@ -200,7 +200,7 @@ directly under the box*/
     padding: 40px 100px;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     /*mess around with this; maybe just use gap?*/
     margin: 100px;
     border-radius: 8px;

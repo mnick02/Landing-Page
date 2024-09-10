@@ -83,6 +83,10 @@ a,
     border: none;
 }
 
+.button-2 {
+    border: 2px solid #f9faf8;
+}
+
 button:focus {
     outline-color: transparent;
     outline-style: solid;

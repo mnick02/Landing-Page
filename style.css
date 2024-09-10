@@ -201,6 +201,8 @@ directly under the box*/
 
 .action-header {
     color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .action-subtext {
